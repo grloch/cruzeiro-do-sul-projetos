@@ -1,0 +1,6 @@
+12;12;12,123456789,Chamex;31.49;Pardo;Carta - Reciclado;21.6;27.9;75;true;Chamex;31.49;Pardo;Carta - Reciclado;21.6;27.9;75;true;,Faber-Castell;23.9;80;medio;executivo;true;,,12;12;12,123456789,,,,12;12;12,123456789,
+Chamex;31.49;Pardo;Carta - Reciclado;21.6;27.9;75;false;
+Chamex;31.49;Pardo;Carta - Reciclado;21.6;27.9;75;false;
+Chamex;20.9;Branco;A4 Sulfite;21.0;27.9;75;false;
+Go Office;20.97;Branco;A4 Sulfite;21.0;27.9;75;false;
+Filiperson;19.9;Branco;Couchê;21.0;29.7;180;false;,Faber-Castell;23.9;80;medio;executivo;true;Tilibra;7.9;96;Grande;Espiral;true;Brief Case;8.5;96;Grande;Espiral;false;GRIMÓRIO;289.9;200;Grande;Satânico;true;Desconhecido;39.5;200;Médio;Registro de Atas;true;,Bic;22.9;24;true;,12;12;12,123456789,,Faber-Castell;23.9;80;medio;executivo;true;Tilibra;7.9;96;Grande;Espiral;true;,,12;12;12,123456789,,,Bic;6.93;12;false;,1;1;2019,123456789,,Faber-Castell;23.9;80;medio;executivo;true;,Bic;6.93;12;false;,

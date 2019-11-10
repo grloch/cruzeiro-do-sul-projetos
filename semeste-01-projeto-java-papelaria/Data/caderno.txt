@@ -1,0 +1,1 @@
+null,0.0,0,null,null,true,Faber-Castell,23.9,80,medio,executivo,true,Tilibra,7.9,96,Grande,Espiral,true,Brief Case,8.5,96,Grande,Espiral,false,GRIMÓRIO,289.9,200,Grande,Satânico,true,Desconhecido,39.5,200,Médio,Registro de Atas,true,
