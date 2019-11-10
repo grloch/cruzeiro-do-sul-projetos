@@ -16,11 +16,11 @@ public class principal {
         ArrayList<Caderno> listaCaderno = loadProduto("caderno");
         ArrayList<CaixaLapis> listaCaixaLapis = loadProduto("caixaLapis");
         ArrayList<Cliente> listaCliente = loadCliente();
-
         ArrayList<Pedido> listaPedido = loadPedidos();
 
-        //listaPedido.add(new Pedido());
-        //JOptionPane.showMessageDialog(null, objPedido.consulta());System.out.println(objPedido.toString());
+        // listaPedido.add(new Pedido());
+        // JOptionPane.showMessageDialog(null,
+        // objPedido.consulta());System.out.println(objPedido.toString());
         int ponteiroPrincipal = 999;
 
         while (ponteiroPrincipal != 0) {
@@ -137,7 +137,7 @@ public class principal {
                     }
 
                 } while (ponteiroConsulta != 0);
-            } else if (ponteiroPrincipal == 3) {//lista todos
+            } else if (ponteiroPrincipal == 3) {// lista todos
                 String pedidos = "";
                 if (listaPedido.size() > 0) {
                     pedidos += "Códigos: \n\n";
